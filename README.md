@@ -18,4 +18,4 @@ Youtuber
 OS: MacOS Ventura 13.1
 
 # Contact 
-[Discord](https://discord.gg/GsZJkRUBCX 'My server discord'): Deficienzahh_#0096
+[Discord](https://discord.gg/GsZJkRUBCX 'My server discord'): Deficienzahh_
