@@ -11,11 +11,8 @@ Youtuber
 # Skills
 - HTML
 - CSS
-- JavaScript 
-- Python 
-- Discord.py
-- Discord.js <br>
-OS: MacOS Ventura 13.1
+- Python  <br>
+OS: macOS Sonoma 14.4.1
 
 # Contact 
 [Discord](https://discord.gg/GsZJkRUBCX 'My server discord'): Deficienzahh_
