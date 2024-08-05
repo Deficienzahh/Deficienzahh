@@ -6,7 +6,7 @@ Hello, I'm Deficienzahh 🤙
 
 14 Years Old <br>
 Jr.Dev <br>
-Youtuber 
+ 
 
 # Skills
 - HTML
